@@ -25,14 +25,10 @@ button {
 }
 
 .vertical {
-    border-style: solid;
-    border-color: black;
     flex: 1;
     display: flex;
 }
 
 .horizontal {
-    border-style: solid;
-    border-color: black;
     flex: 1;
 }
